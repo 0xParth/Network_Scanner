@@ -94,11 +94,46 @@ This project is licensed under the MIT License.
 
 This tool is for educational and authorized testing purposes only. Users are responsible for complying with applicable laws. The author is not responsible for misuse or damage caused by this program.
 
-## 👤 Author
+## 👤 About the Author
 
-**0xParth**
-- GitHub: [@0xParth](https://github.com/0xParth)
-- Twitter: [@0xparth](https://twitter.com/0xparth)
+**0xParth** is a passionate cybersecurity professional who brings together expertise in multiple domains:
+
+- **💻 Security Analyst** - Specializing in vulnerability assessment and security testing
+- **🏹 Bug Bounty Hunter** - Active participant in bug bounty programs
+- **👨‍💼 Community Leader** - Leading and contributing to the security community
+- **📹 YouTuber** - Creating educational content at [@BUGXS](https://youtube.com/@BUGXS)
+
+### Connect with 0xParth:
+- **Instagram**: [@0xparth](https://instagram.com/0xparth)
+- **LinkedIn**: [/in/parthshu18](https://linkedin.com/in/parthshu18)
+- **Twitter**: [@0xparth](https://twitter.com/0xparth)
+- **Medium**: [@0xParth](https://medium.com/@0xParth)
+- **YouTube**: [@BUGXS](https://youtube.com/@BUGXS)
+
+### Tech Stack:
+C, JavaScript, Python, Shell Script, Linux, Jira, Docker, Postman
+
+### Other Projects by 0xParth:
+- **[CEH-Practical-Guide](https://github.com/0xParth/CEH-Practical-Guide)** - This Repo will help you to prepare better for CEH - Practical Exam (50 ⭐)
+- **[All-Bug-Dorks](https://github.com/0xParth/All-Bug-Dorks)** - Google dorks to find Bug Bounty Programs (1 ⭐)
+- **[API_Labs](https://github.com/0xParth/API_Labs)** - Creating API labs for Classes
+- **[Network_Scanner](https://github.com/0xParth/Network_Scanner)** - Network scanner utility
+- **[MAC_Changer](https://github.com/0xParth/MAC_Changer)** - This script will help you out to change your MAC Address temporarily!
+- **[takeoveer](https://github.com/0xParth/takeoveer)** - Subdomain takeover toolkit
+- **[0xParth](https://github.com/0xParth/0xParth)** - Config files for my GitHub profile
+- **[0xparth.github.io](https://github.com/0xParth/0xparth.github.io)** - Personal website
+- **RecIT** - Ultimate Recon Script 💥 (Private)
+- **Recon-V2.0** - Backup to /Recon/V2.0 (Private)
+- **certsubs-corp** - Certsubs for Enterprise (Private)
+- **recon** - Reconnaissance tools (Private)
+- **hackathon** - Hackathon projects (Private)
+- **certsubs-app** - Certsubs for Bug Bounty Hunters (Private)
+- **pyRIT_Wrapper** - PyRIT wrapper utility (Private)
+- **allsubz** - All subdomains finder (Private)
+- **IntentClassifier** - Intent classification tool (Private)
+- **PromptGuard** - Prompt protection utility (Private)
+- **DocuCraft-AI** - AI-powered documentation tool (Private)
+- **credential-stuffing** - Credential stuffing testing (Private)
 
 ## 🙏 Acknowledgments
 
